@@ -23,7 +23,7 @@
 <body class="hidden">
     <div class="centrado" id="onload">
         <div class="lds-facebook">
-            <div></div>
+            <div>hola mundos</div>
             <div></div>
             <div></div>
         </div>
